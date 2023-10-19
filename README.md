@@ -8,7 +8,7 @@ Type:
 • JavaScript Projects
 
 Language Used:
-• JavaScript(100%)
+• JavaScript(100.0%)
 
 I hope these projects will be very helpful for many of you in terms of learning and for better understanding of JavaScript.
 
