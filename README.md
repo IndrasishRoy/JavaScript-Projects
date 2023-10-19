@@ -1,5 +1,5 @@
 # JavaScript-Projects
-My JavaScript Projects
+Welcome to my JavaScript Projects.
 
 Details:
 This folder contains all of my JavaScript projects. I created these projects while learning JavaScript from YouTube and CodeCademy. It is very easy to read and understand these codes for beginners.
