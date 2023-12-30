@@ -8,7 +8,8 @@ This folder contains all of my JavaScript projects. I created these projects whi
 • JavaScript Projects(for beginners)
 
 ## Language Used:
-• JavaScript(100.0%)
+![HTML BADGE](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT BADGE](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ##
 I hope these projects will be very helpful for many of you in terms of learning and for better understanding of JavaScript.
